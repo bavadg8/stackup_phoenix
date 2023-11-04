@@ -3,7 +3,9 @@
 Long Description about project. This project do that. This project is awesome...
 ## Team members
 1. S.Suvedha [https://github.com/bavadg8]
-2. Anamika H [Embed perosnal github URL]
+2. Anamika H [https://github.com/anamika304]
+3. M K S Rashmika [https://github.com/Githubenthus]
+4. Sharika M D [https://github.com/stackup1234]
 ## Team Id
 Team id = phoenix
 ## Link to product walkthrough
